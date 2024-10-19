@@ -1,0 +1,12 @@
+name="nika"
+lastname="gigani"
+age=15
+number=10
+p=3.14
+a=1.1
+print(name)
+print(lastname)
+print(age)
+print(number)
+print(p)
+print(a)
