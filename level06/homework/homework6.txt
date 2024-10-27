@@ -1,0 +1,3 @@
+ჩამოწერეთ 3 case-insensitive პროგრამირების ენა/ტექნოლოგია და 3 case-sensitive პროგრამირების ენა/ტექნოლოგია.
+case-insensitive:SQL,HTML,CSS.
+case-sensitive:Java,C++,Python

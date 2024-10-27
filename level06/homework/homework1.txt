@@ -1,0 +1,39 @@
+1. camelCase
+
+Camel Case is actually inspired from animal “Camel”. Where first word will be small letters and from second word, first character will be captialized like camelCase.
+
+Some of the big companies also inspired from this. Example like iPhone , eBay
+
+Generally, Camel Case is used for Variable Naming
+
+2. snake_case
+Snake Case is naming with words separated by _ ( underscore ) and all small letters
+
+Generally, Snake Case is used for Variable Naming
+
+Ex :- snake_case, new_word
+
+3. kebab-case
+
+Kebab Case is naming with words separated by — ( hyphen ) with all small letters
+
+Generally, Kebab Case is used for CSS naming
+
+Ex :- new-word, kebab-case
+
+4. PascalCase
+
+Pascal Case is naming with First letter of each word is Capitalized.
+
+Generally, Pascal Case is used for Class Naming
+
+Ex :- NewWord, PascalCase
+
+5. MACRO_CASE
+
+Macro case is naming with all letters Capitalized but the words are joined with _ ( underscore)
+
+camelCase: Go, JavaScript, Java and C# for variable and function names.
+PascalCase: Go, C#, Java and TypeScript for class and type names. 
+snake_case: Python, Ruby and JavaScript for variable and function names.
+kebab-case: HTML and CSS for class names, file names and URLs

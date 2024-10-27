@@ -1,0 +1,16 @@
+#+
+q=5
+q+=3
+print(q)
+#-
+w=10
+w-=5
+print(w)
+#*
+e=3
+e*=5
+print(e)
+#/
+r=18
+r/=6
+print(r)
