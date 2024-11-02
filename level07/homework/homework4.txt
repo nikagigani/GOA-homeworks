@@ -1,0 +1,2 @@
+ინდენტაცია მნიშვნელოვანია:Python, Haskell, YAML.
+ინდენტაცია უმნიშვნელოა:C, Java, JavaScript.
