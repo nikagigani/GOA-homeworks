@@ -1,0 +1,5 @@
+name=input("enter name: ")
+choise=input("enter u or l: ")
+if choise=="u": print(name.upper())
+elif choise=="l": print(name.lower())
+else: print("wrong information")
