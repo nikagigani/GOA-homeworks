@@ -1,0 +1,39 @@
+#p1{
+    text-align: right;
+    text-decoration: underline dashed rgb(7, 243, 66);
+}
+#p2{
+    text-align: center;
+    text-decoration: line-through solid rgb(0, 0, 0);
+}
+#p3{
+    text-align: center;
+    text-decoration: underline solid black;
+}
+#p4{
+    text-align: right;
+    text-decoration: line-through dashed rgb(50, 50, 99);
+}
+#p5{
+    text-align: left;
+    text-decoration: line-through solid black;
+}
+#p6{
+    text-align: left;
+    text-decoration: overline solid black;
+}
+#p7{
+    text-align: right;
+    text-decoration: overline solid blue;
+    color: blue;
+}
+#p8{
+    text-transform: uppercase;
+    text-align: center;
+    text-decoration: overline solid rgb(203, 192, 192);
+    color: rgb(203, 192, 192);
+}
+#p9{
+    text-align: right;
+    text-decoration: underline dashed blue;
+}
