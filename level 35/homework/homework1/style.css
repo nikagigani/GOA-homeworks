@@ -1,0 +1,15 @@
+a{
+    color: rgb(28, 234, 10);
+    text-decoration: none;
+    font-weight: bold;
+    font-style: italic;
+    text-transform: uppercase;
+}
+a:hover{
+    text-decoration: underline;
+    color: rgb(106, 8, 198);
+    background-color: rgb(152, 148, 151);
+}
+a:visited{
+    color: rgb(239, 8, 8);
+}
