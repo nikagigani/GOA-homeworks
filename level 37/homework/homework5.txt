@@ -1,0 +1,41 @@
+1.hello world
+2.#
+3.დიაპაზონის შესაქმნელად
+4.+
+5.for, while
+6.float
+7.False
+8.helloworld
+9.0
+10..py
+11.True
+12.555
+13.o
+14.2,4,6,8
+15.როცა არ ვიცით რამდენჯერ გვჭირდება იტერაცია ვიყენებთ while ციკლს
+16.True,False
+17.and
+18.print(my_list[2])
+19. HyperText Markup Language
+20.მასშია ვებსაიტის მათავარი სტრუქტურა
+21.<a>
+22.h1
+23.alt
+24.ვებსაიტის სათაური
+25.<br>
+26.ul
+27.<input type="checkbox">
+28.<input type="text">
+29.href
+30.em თეგი ტექსტის font-ს ცვლის
+31.<form>
+32.id
+33.ol
+34.select
+35.ნავიგაციისთვის გამოიყენება
+36.საიტის მთავარ კონტენტს წარმოადგენს
+37.<!-- -->
+38.required
+39.<img>
+40.<audio>
+41.<video>
