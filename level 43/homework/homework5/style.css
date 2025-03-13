@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+    color: white;
+}
+
+div {
+    width: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.header { 
+    background: blue; 
+}
+
+.hero { 
+    background: red; 
+}
+
+.content { 
+    background: green; 
+}
+
+.sidebar { 
+    background: purple; 
+}
+
+.footer { 
+    background: gray; 
+}

@@ -1,0 +1,41 @@
+* {
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
+
+header { 
+    background-color:#f38107 ;
+}
+footer { 
+    background-color:#FF1493;
+}
+
+main {
+    display: flex;
+    height: 300px;
+}
+
+.left { 
+    background: #1E90FF; 
+    width: 25%; 
+    float: left; 
+}
+
+.right { 
+    background: #228B22; 
+    width: 25%; 
+    float: left; 
+}
+
+section { 
+    background: #483D8B; 
+    width: 50%; 
+    float: left; 
+}
+
+aside, section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
