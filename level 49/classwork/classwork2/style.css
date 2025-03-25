@@ -1,0 +1,14 @@
+div {
+    width: 100vh;
+    height: 50vh;
+    color: white;
+    background-color: black;
+    font-size: 20px;
+    transition: font-size 1s, color 2s, background-color 2s;
+}
+
+div:active {
+    font-size: 25px;
+    color: black;
+    background-color: white;
+}
