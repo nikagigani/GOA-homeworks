@@ -1,0 +1,24 @@
+div {
+    height: 500px;
+    width: 500px;
+    background-color: black;
+}
+
+div:hover {
+    animation-name: bg-and-deg-change;
+    animation-duration: 3s;
+}
+
+@keyframes bg-and-deg-change {
+    0% {
+        background-color: black;
+    }
+    50% {
+        background-color: green;
+        transform: rotate(180deg);
+    }
+    100% {
+        background-color: blue;
+        transform: rotate(360deg);
+    }
+}

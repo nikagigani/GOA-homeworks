@@ -1,0 +1,19 @@
+div {
+    width: 200px;
+    height: 200px;
+    background-color: black;
+}
+
+div:hover {
+    animation-name: color;
+    animation-duration: 0.3s;
+}
+
+@keyframes color {
+    from {
+        background-color: black;
+    }
+    to {
+        background-color: red;
+    }
+}

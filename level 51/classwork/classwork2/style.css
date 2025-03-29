@@ -1,0 +1,36 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+div {
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+    border-radius: 50%;
+    animation-name: animation;
+    animation-duration: 10s;
+}
+
+@keyframes animation {
+    from {
+        scale: 1;
+    }
+    20% {
+        transform: translate(100px, 150px);
+        scale: 0.5;
+    }
+    60% {
+        transform: translate(200px, -50px);
+        scale: 1.5;
+    }
+    80% {
+        transform: translate(400px, -150px);
+        scale: 1.5;
+    }
+    to {
+        transform: translate(600px, -10px);
+        scale: 5;
+    }
+}
