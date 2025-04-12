@@ -1,0 +1,14 @@
+.element {
+    animation: animation1 5s linear infinite;
+}
+
+@keyframes animation1 {
+    0% {
+        transform: translateX(0);
+    }
+    100% {
+        transform: translateX(100px);
+    }
+}
+
+
